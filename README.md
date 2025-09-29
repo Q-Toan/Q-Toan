@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/header.png](https://github.com/Q-Toan/Q-Toan/blob/main/Banner.png)" alt="Header Banner" />
+  <img src="https://github.com/Q-Toan/Q-Toan/blob/main/Banner.png?raw=true" alt="Header Banner" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Lư Quốc Toàn</h1>
