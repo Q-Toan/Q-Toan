@@ -6,36 +6,28 @@
 <h3 align="center">[Câu giới thiệu ngắn - Tagline của bạn]</h3>
 
 <p align="center">
-  <a href="[Link LinkedIn của bạn]" target="_blank">
+  <a href="[https://www.linkedin.com/in/l%C6%B0-qu%E1%BB%91c-to%C3%A0n-172b62383/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[Link Portfolio/Website của bạn]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:[Email của bạn]">
+  <a href="mailto:[luquoctoan0406@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="[Link Facebook của bạn]" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
 ---
 
 <p align="left">
-  - 🔭 I’m currently working on **[Dự án bạn đang làm hoặc công ty hiện tại]**
+  - 🔭 I’m currently working on **Building two projects is Youtube-clone và Moveo**
   <br/>
-  - 🌱 I’m currently learning **[Thứ bạn đang học, ví dụ: Golang, Rust, System Design,...]**
+  - 🌱 I’m currently learning **Next.JS, React, javascript, typescript, HTML, PHP**
   <br/>
-  - 👯 I’m looking to collaborate on **[Loại dự án bạn muốn hợp tác, ví dụ: open-source projects related to AI]**
+  - 👯 I’m looking to collaborate on **open-source projects related to AI and more**
   <br/>
-  - 🤔 I’m looking for help with **[Thứ bạn cần giúp đỡ/hỏi đáp]**
+  - 💬 Ask me about **React, Node.js, and Web Performance**
   <br/>
-  - 💬 Ask me about **[Chủ đề bạn tự tin, ví dụ: React, Node.js, and Web Performance]**
+  - 📫 How to reach me: **Email: luquoctoan0406@mgail.com or 0336379906**
   <br/>
-  - 📫 How to reach me: **[Email hoặc cách liên lạc tốt nhất]**
-  <br/>
-  - 😄 Fun fact: **[Một sự thật thú vị về bạn, ví dụ: I can solve a Rubik's cube in under a minute!]**
+  - 😄 Fun fact: **I can solve a Rubik's cube in under a minute!**
 </p>
 
 ---
@@ -69,11 +61,11 @@
 
 <h3 align="left">📊 My GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[USERNAME-CỦA-BẠN]&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Q-Toan&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[USERNAME-CỦA-BẠN]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Q-Toan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/><br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME-CỦA-BẠN]&theme=tokyonight" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Q-Toan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
