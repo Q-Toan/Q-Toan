@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/header.png" alt="Header Banner" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm [Tên của bạn]</h1>
-<h3 align="center">[Câu giới thiệu ngắn - Tagline của bạn]</h3>
+<h1 align="center">Hi there 👋, I'm Lư Quốc Toàn</h1>
+<h3 align="center">Đam mê biến cà phê thành những dòng code sạch</h3>
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/l%C6%B0-qu%E1%BB%91c-to%C3%A0n-172b62383/]" target="_blank">
